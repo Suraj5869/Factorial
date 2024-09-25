@@ -1,0 +1,7 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.AssemblyReference.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe.config
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.pdb
